@@ -85,3 +85,7 @@ https://nagasudhir.blogspot.com/2023/02/setup-python-on-linux-in-windows-using.h
 
 ### configurer github
 https://www.youtube.com/watch?v=Xi_2Cu8z2d0
+
+### ajouter ssh sur linux vers github
+
+https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
