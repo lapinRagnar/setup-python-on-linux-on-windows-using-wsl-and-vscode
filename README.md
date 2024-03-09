@@ -94,6 +94,7 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.12 2
 ## resources
 ### configurer wsl ubuntu 20.04 et vscode et python et venv
 https://www.youtube.com/watch?v=hK-fZhh4v8I
+
 https://nagasudhir.blogspot.com/2023/02/setup-python-on-linux-in-windows-using.html
 
 ### configurer github
