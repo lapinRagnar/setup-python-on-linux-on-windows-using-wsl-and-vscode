@@ -7,6 +7,7 @@
 - Check the installation location of python using which python
 - Update all the packages using sudo apt update && sudo apt upgrade
 - Update only python3 using sudo apt upgrade python3
+
 ### Setting up pip
 - pip is useful for managing external packages in python
 - Install pip using sudo apt install python3-pip
@@ -15,18 +16,34 @@
 - Install venv using sudo apt install python3-venv
 ### Setup multiple python versions using deadsnakes ppa
 - deadsnakes ppa contains multiple versions of python that can be installed and used in Ubuntu
-- Add deadsnakes ppa repository using sudo add-apt-repository ppa:deadsnakes/ppa
+- Add deadsnakes ppa repository using ``` sudo add-apt-repository ppa:deadsnakes/ppa ```
 - Now multiple python versions can be installed. For example python 3.7 and python 3.9 can be installed using the following commands
 
 
 # les commandes
 
+- mettre à jour les packages
+
+``` cmd
+sudo apt update -y && sudo apt upgrade -y
+sudo apt install neofetch
+neofetch
+```
+
+- installation de pip
+```
+sudo apt install python3-pip
+```
+
+
+- installation des versions de python qu'on veut
 
 ``` cmd
 
 # install python 3.7
 sudo apt install python3.7
 sudo apt install python3.7-distutils
+
 # install python 3.9
 sudo apt install python3.9
 sudo apt install python3.9-distutils
@@ -38,11 +55,7 @@ sudo apt install python3.9-distutils
 
 
 
-``` cmd
-sudo apt update -y && sudo apt upgrade -y
-sudo apt install neofetch
-neofetch
-```
+
 
 ### ensuite on install les versions de python qu'on veut
 ```
@@ -89,3 +102,5 @@ https://www.youtube.com/watch?v=Xi_2Cu8z2d0
 ### ajouter ssh sur linux vers github
 
 https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
+
+![alt text](image.png)
