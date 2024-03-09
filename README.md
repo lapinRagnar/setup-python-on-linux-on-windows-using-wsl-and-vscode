@@ -103,4 +103,3 @@ https://www.youtube.com/watch?v=Xi_2Cu8z2d0
 
 https://docs.github.com/fr/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=linux
 
-![alt text](image.png)
